@@ -23,3 +23,8 @@ the tool parameters :
   5. the tool designed with conditions to reload the process in case of failure 
 i.e if we needs to upload about 10000 file with 11mb after resizing with good quality nearly about 3mb per file i.e we haveto upload,
  about 30 GB at end of day hence to avoid any failure causing stopping the process it designed to not to stop
+
+Prequests :
+1. unlimited space on google drive
+2. credentail file .json from google cloud
+3. stable internet uploading
